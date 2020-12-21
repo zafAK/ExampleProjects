@@ -1,1 +1,1 @@
-This is all the files for a National Voting system project which reads out to a an SQL database and allows users to vote in an easy to use interface.
+This is all the files for a National Voting system project which reads out to a an SQL database and allows users to vote in an easy to use interface. One thing to note is that some images and sounds may not be imported properly, which may lead to a potential error.
